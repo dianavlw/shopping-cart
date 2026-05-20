@@ -1,5 +1,5 @@
 import data from "../../data";
-import SingleItem from "../SingleItem/SingleItem";
+import SingleItem from "../SingleItem/SingleItem.jsx";
 
 function Products() {
   return (
